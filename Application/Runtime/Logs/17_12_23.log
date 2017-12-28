@@ -1,0 +1,40 @@
+[ 2017-12-23T09:02:18+08:00 ] ::1 /tp3.2_QL_demo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 28 E:\xampp\htdocs\tp3.2_QL_demo\ThinkPHP\Library\Org\JAE\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 28 E:\xampp\htdocs\tp3.2_QL_demo\ThinkPHP\Library\Org\JAE\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 95 E:\xampp\htdocs\tp3.2_QL_demo\ThinkPHP\Library\Org\JAE\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nav3 already defined in Entity, line: 103 E:\xampp\htdocs\tp3.2_QL_demo\ThinkPHP\Library\Org\JAE\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nav4 already defined in Entity, line: 104 E:\xampp\htdocs\tp3.2_QL_demo\ThinkPHP\Library\Org\JAE\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nav3 already defined in Entity, line: 106 E:\xampp\htdocs\tp3.2_QL_demo\ThinkPHP\Library\Org\JAE\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nav4 already defined in Entity, line: 107 E:\xampp\htdocs\tp3.2_QL_demo\ThinkPHP\Library\Org\JAE\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 131 E:\xampp\htdocs\tp3.2_QL_demo\ThinkPHP\Library\Org\JAE\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 131 E:\xampp\htdocs\tp3.2_QL_demo\ThinkPHP\Library\Org\JAE\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.061000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.061000s ]
+
+[ 2017-12-23T09:22:06+08:00 ] ::1 /tp3.2_QL_demo/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 28 E:\xampp\htdocs\tp3.2_QL_demo\ThinkPHP\Library\Org\JAE\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 28 E:\xampp\htdocs\tp3.2_QL_demo\ThinkPHP\Library\Org\JAE\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 95 E:\xampp\htdocs\tp3.2_QL_demo\ThinkPHP\Library\Org\JAE\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nav3 already defined in Entity, line: 103 E:\xampp\htdocs\tp3.2_QL_demo\ThinkPHP\Library\Org\JAE\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nav4 already defined in Entity, line: 104 E:\xampp\htdocs\tp3.2_QL_demo\ThinkPHP\Library\Org\JAE\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nav3 already defined in Entity, line: 106 E:\xampp\htdocs\tp3.2_QL_demo\ThinkPHP\Library\Org\JAE\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nav4 already defined in Entity, line: 107 E:\xampp\htdocs\tp3.2_QL_demo\ThinkPHP\Library\Org\JAE\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 131 E:\xampp\htdocs\tp3.2_QL_demo\ThinkPHP\Library\Org\JAE\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 131 E:\xampp\htdocs\tp3.2_QL_demo\ThinkPHP\Library\Org\JAE\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
